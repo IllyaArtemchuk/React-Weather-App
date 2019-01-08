@@ -1,0 +1,47 @@
+.Spacer {
+    margin-top: 100px;
+}
+.Spacer2 {
+    margin-top: 50px;
+}
+.DetailsCard {
+    margin-top: 100px;
+}
+.weatherimg {
+    position:relative;
+    top:1px;
+}
+.text {
+    font-size: 20px;
+}
+.card-content {
+    margin-bottom: -20px
+}
+.card-image {
+    height:150px;
+    width: 150px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 200px;
+    width: 180px;
+    background-color: rgb(250, 245, 247);
+}
+
+.responsive-img {
+    width: 800px;
+}
+
+.WeatherDetails {
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.DayDisplay {
+    text-align: center;
+    font-size: 25px;
+}
